@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Logo from './logo_light.png'
-import {BrowserRouter, Link, Route} from 'react-router-dom'
+// import {BrowserRouter, Link, Route} from 'react-router-dom'
 // import './footer.css'
 
 class footer extends Component {
